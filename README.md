@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DF7E5&center=true&width=435&lines=Desenvolvedor+%26+Designer+" alt="Typing SVG" /></a>
  
  <p>Olá, meu nome é João, desde criança sonho em trabalhar com desenvolvimento, acredito que essa área 
@@ -31,7 +31,7 @@
   <a href="https://web.facebook.com/joaovictorda.silva.395891/?_rdc=1&_rdr#" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.v.d.s.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-da-silva-5b1044203/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://joaovdsportifolio.netlify.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+  <a href="https://portfolio-joao-victor-da-silva.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
  </div>
   <br>
   <hr> </hr>
